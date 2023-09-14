@@ -1,2 +1,2 @@
 # Seneca-ajandusay
-Angelo Jandusay OPS445NBB
+Angelo Jandusay OPS445-NBB
